@@ -1,0 +1,8 @@
+.swiper {
+    width: 100%;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    color: gray
+}
